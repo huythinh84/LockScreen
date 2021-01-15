@@ -1,0 +1,88 @@
+[
+  {
+    "id": "bgs",
+    "name": "Backgrouds",
+    "data": [
+      "7color.png",
+      "bg1.png",
+      "bg2.png",
+      "bg3.png",
+      "bg4.png",
+      "bg5.png",
+      "bg6.png",
+      "bg7.png",
+      "bg8.png",
+      "bg9.png",
+      "bg10.png",
+      "bg11.png"
+    ]
+  },
+  {
+    "id": "players",
+    "name": "Players",
+    "data": [
+      "BASE.png",
+      "BLUE.png",
+      "GREEN.png",
+      "ORANGE.png",
+      "PINK.png",
+      "PINK2.png",
+      "PURPLE.png",
+      "RED.png",
+      "YELLOW.png"
+    ]
+  },
+  {
+    "id": "outfits",
+    "name": "Outfits",
+    "data": [
+      "BASE.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png"
+    ]
+  },
+  {
+    "id": "hats",
+    "name": "Hats",
+    "data": [
+      "BASE.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png"
+    ]
+  },
+  {
+    "id": "pets",
+    "name": "Pets",
+    "data": [
+      "BASE.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png"
+    ]
+  },
+  {
+    "id": "vote",
+    "name": "Vote",
+    "data": [
+      "BASE.png",
+      "CREWMATE.png",
+      "defeat.png",
+      "IMPOSTOR.png"
+    ]
+  }
+]
